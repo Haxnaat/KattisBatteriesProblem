@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MySelfTesting\ProblemB\bin\Debug\net5.0\ProblemB.exe
+C:\Users\User\source\repos\MySelfTesting\ProblemB\bin\Debug\net5.0\ProblemB.deps.json
+C:\Users\User\source\repos\MySelfTesting\ProblemB\bin\Debug\net5.0\ProblemB.runtimeconfig.json
+C:\Users\User\source\repos\MySelfTesting\ProblemB\bin\Debug\net5.0\ProblemB.runtimeconfig.dev.json
+C:\Users\User\source\repos\MySelfTesting\ProblemB\bin\Debug\net5.0\ProblemB.dll
+C:\Users\User\source\repos\MySelfTesting\ProblemB\bin\Debug\net5.0\ref\ProblemB.dll
+C:\Users\User\source\repos\MySelfTesting\ProblemB\bin\Debug\net5.0\ProblemB.pdb
+C:\Users\User\source\repos\MySelfTesting\ProblemB\obj\Debug\net5.0\ProblemB.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MySelfTesting\ProblemB\obj\Debug\net5.0\ProblemB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MySelfTesting\ProblemB\obj\Debug\net5.0\ProblemB.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MySelfTesting\ProblemB\obj\Debug\net5.0\ProblemB.AssemblyInfo.cs
+C:\Users\User\source\repos\MySelfTesting\ProblemB\obj\Debug\net5.0\ProblemB.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MySelfTesting\ProblemB\obj\Debug\net5.0\ProblemB.dll
+C:\Users\User\source\repos\MySelfTesting\ProblemB\obj\Debug\net5.0\ref\ProblemB.dll
+C:\Users\User\source\repos\MySelfTesting\ProblemB\obj\Debug\net5.0\ProblemB.pdb
+C:\Users\User\source\repos\MySelfTesting\ProblemB\obj\Debug\net5.0\ProblemB.genruntimeconfig.cache

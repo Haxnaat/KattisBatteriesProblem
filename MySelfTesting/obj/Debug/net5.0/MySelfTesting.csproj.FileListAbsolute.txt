@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MySelfTesting\MySelfTesting\bin\Debug\net5.0\MySelfTesting.exe
+C:\Users\User\source\repos\MySelfTesting\MySelfTesting\bin\Debug\net5.0\MySelfTesting.deps.json
+C:\Users\User\source\repos\MySelfTesting\MySelfTesting\bin\Debug\net5.0\MySelfTesting.runtimeconfig.json
+C:\Users\User\source\repos\MySelfTesting\MySelfTesting\bin\Debug\net5.0\MySelfTesting.runtimeconfig.dev.json
+C:\Users\User\source\repos\MySelfTesting\MySelfTesting\bin\Debug\net5.0\MySelfTesting.dll
+C:\Users\User\source\repos\MySelfTesting\MySelfTesting\bin\Debug\net5.0\ref\MySelfTesting.dll
+C:\Users\User\source\repos\MySelfTesting\MySelfTesting\bin\Debug\net5.0\MySelfTesting.pdb
+C:\Users\User\source\repos\MySelfTesting\MySelfTesting\obj\Debug\net5.0\MySelfTesting.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MySelfTesting\MySelfTesting\obj\Debug\net5.0\MySelfTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MySelfTesting\MySelfTesting\obj\Debug\net5.0\MySelfTesting.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MySelfTesting\MySelfTesting\obj\Debug\net5.0\MySelfTesting.AssemblyInfo.cs
+C:\Users\User\source\repos\MySelfTesting\MySelfTesting\obj\Debug\net5.0\MySelfTesting.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MySelfTesting\MySelfTesting\obj\Debug\net5.0\MySelfTesting.dll
+C:\Users\User\source\repos\MySelfTesting\MySelfTesting\obj\Debug\net5.0\ref\MySelfTesting.dll
+C:\Users\User\source\repos\MySelfTesting\MySelfTesting\obj\Debug\net5.0\MySelfTesting.pdb
+C:\Users\User\source\repos\MySelfTesting\MySelfTesting\obj\Debug\net5.0\MySelfTesting.genruntimeconfig.cache
